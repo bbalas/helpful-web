@@ -1,0 +1,49 @@
+.settings-row-heading {
+  font-size: 12px;
+  padding: 5px 30px;
+  text-transform: uppercase;
+  background-color: #FBFBFB;
+  border-top: 1px solid $column-border-color;
+  border-bottom: 1px solid $column-border-color;
+  box-sizing: border-box;
+  -moz-box-sizing:border-box;
+}
+
+.settings-row {
+  padding: 20px 30px;
+
+  > .summary {
+    color: #333;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  > .meta {
+    color: #B2B2B2;
+    font-size: 13px;
+    line-height: 24px;
+  }
+}
+
+a.settings-row {
+  display: block;
+  border-bottom: none;
+}
+
+.settings-heading {
+  padding: 30px 45px;
+  border-bottom: 1px solid #e6e6e6;
+
+  > .summary {
+    color: #333;
+    font-size: 23px;
+    line-height: 30px;
+  }
+
+  > .meta {
+    font-weight: light;
+    color: #b2b2b2;
+    font-size: 16px;
+    line-height: 30px;
+  }
+}
