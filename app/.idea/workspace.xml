@@ -31,10 +31,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="edit.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/accounts/edit.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="28" selection-start="348" selection-end="350" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1320">
+            <state line="44" column="36" selection-start="1401" selection-end="1401" vertical-scroll-proportion="1.1681416" vertical-offset="0" max-vertical-offset="1335">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_account_details.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/accounts/_account_details.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="9" selection-start="1233" selection-end="1233" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="570">
               <folding />
             </state>
           </provider>
@@ -49,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_row.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_row.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/accounts/_row.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="8" selection-start="67" selection-end="67" vertical-scroll-proportion="0.07785467" vertical-offset="0" max-vertical-offset="578">
+            <state line="3" column="8" selection-start="67" selection-end="67" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
@@ -75,8 +84,8 @@
         <option value="$PROJECT_DIR$/assets/stylesheets/modules/conversation.css.scss" />
         <option value="$PROJECT_DIR$/assets/stylesheets/modules/settings.css.scss" />
         <option value="$PROJECT_DIR$/views/conversations/index.html.erb" />
-        <option value="$PROJECT_DIR$/views/accounts/edit.html.erb" />
         <option value="$PROJECT_DIR$/views/accounts/_row.html.erb" />
+        <option value="$PROJECT_DIR$/views/accounts/edit.html.erb" />
       </list>
     </option>
   </component>
@@ -490,13 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/accounts/_account_details.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="9" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.8495575" vertical-offset="0" max-vertical-offset="570">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/stylesheets/modules/column.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="57" selection-start="203" selection-end="209" vertical-scroll-proportion="0.10380623" vertical-offset="0" max-vertical-offset="578">
@@ -602,13 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/accounts/edit.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="28" selection-start="348" selection-end="350" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1320">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/messages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="18" selection-start="739" selection-end="739" vertical-scroll-proportion="0.59800667" vertical-offset="0" max-vertical-offset="602">
@@ -625,7 +620,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/accounts/_row.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="67" selection-end="67" vertical-scroll-proportion="0.07785467" vertical-offset="0" max-vertical-offset="578">
+        <state line="3" column="8" selection-start="67" selection-end="67" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/accounts/_account_details.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="9" selection-start="1233" selection-end="1233" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/accounts/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="36" selection-start="1401" selection-end="1401" vertical-scroll-proportion="1.1681416" vertical-offset="0" max-vertical-offset="1335">
           <folding />
         </state>
       </provider>
