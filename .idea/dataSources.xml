@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1746868841">
+    <data-source source="LOCAL" name="Rails helpful-web-mine: development" uuid="7d98e19a-4aea-4386-a920-519c8d98df7b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/helpful_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails helpful-web-mine: test" uuid="724a86e8-03a5-4741-94d1-a427a4489310">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/helpful_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails helpful-web-mine: production" uuid="687a5709-555b-40a6-a480-bf03a216c628">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:helpful_production</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
