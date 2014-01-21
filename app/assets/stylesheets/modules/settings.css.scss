@@ -25,6 +25,14 @@
   }
 }
 
+.highlight {
+  background-color: #F7FAFC;
+
+  .summary {
+    color: #1E5B98;
+  }
+}
+
 a.settings-row {
   display: block;
   border-bottom: none;
@@ -46,4 +54,41 @@ a.settings-row {
     font-size: 16px;
     line-height: 30px;
   }
+}
+
+.settings-content {
+  padding: 20px 45px;
+}
+
+
+.settings-label {
+  padding: 10px 15px 0px 0px;
+
+  font-size: 14px;
+  font-weight: 600;
+}
+
+
+.pic-container {
+  margin-bottom: 30px;
+}
+
+.pic {
+  width: 115px;
+  height: 115px;
+  border: 2px solid #e6e6e6;
+  border-radius: 5px;
+  float: left;
+  margin-right: 20px;
+  background-image: url(image-path('gray-logo.png'));
+}
+
+.pic-upload {
+  width: 300px;
+  height: 115px;
+  border: 2px solid #e6e6e6;
+  border-radius: 5px;
+  overflow: auto;
+  line-height: 111px;
+  text-align: center;
 }
